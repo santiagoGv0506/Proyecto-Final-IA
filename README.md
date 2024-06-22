@@ -17,3 +17,4 @@ Decision tree, Random Forest, Suport Vector Machine
 ## Enlaces
 https://colab.research.google.com/drive/1ydSoFlonQ84XeZ5MxKn2EgGee0b8XSPg?usp=sharing
 https://github.com/santiagoGv0506/Proyecto-Final-IA.git
+https://youtu.be/j9b-Al29It4
