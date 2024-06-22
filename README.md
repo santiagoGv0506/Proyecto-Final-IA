@@ -6,7 +6,7 @@
 Julian Andrés Gaitán Hernández, Santiago Gomez Villarreal, Erick Daniel Vargas Miranda
 
 ## Objetivo
-Crear un clasificador capaz de identificar la posicon en la que juega un jugador de la nba dependiendo de sus estadisticas personales dentro de la cancha.
+Crear un clasificador capaz de identificar la posicion en la que juega un jugador de la nba dependiendo de sus estadisticas personales dentro de la cancha.
 
 ## Dataset
 https://www.kaggle.com/datasets/vivovinco/2023-2024-nba-player-stats/data
