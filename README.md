@@ -12,6 +12,8 @@ Crear un clasificador capaz de identificar la posicon en la que juega un jugador
 https://www.kaggle.com/datasets/vivovinco/2023-2024-nba-player-stats/data
 
 ## Modelos
-
+Decision tree, Ramdom Forest, Suport Vector Machine
 
 ## Enlaces
+https://colab.research.google.com/drive/1ydSoFlonQ84XeZ5MxKn2EgGee0b8XSPg?usp=sharing
+https://github.com/santiagoGv0506/Proyecto-Final-IA.git
